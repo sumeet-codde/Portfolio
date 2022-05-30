@@ -454,12 +454,12 @@ section {
 
 
 /*--------------------------------------------------------------
-# projects
+# services
 --------------------------------------------------------------*/
-.projects .icon-box {
+.services .icon-box {
   margin-bottom: 20px;
 }
-.projects .icon {
+.services .icon {
   float: left;
   display: flex;
   align-items: center;
@@ -471,30 +471,30 @@ section {
   transition: 0.5s;
   border: 1px solid #149ddd;
 }
-.projects .icon i {
+.services .icon i {
   color: #fff;
   font-size: 24px;
   line-height: 0;
 }
-.projects .icon-box:hover .icon {
+.services .icon-box:hover .icon {
   background: #fff;
 }
-.projects .icon-box:hover .icon i {
+.services .icon-box:hover .icon i {
   color: #149ddd;
 }
-.projects .title {
+.services .title {
   margin-left: 80px;
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 18px;
 }
-.projects .title a {
+.services .title a {
   color: #343a40;
 }
-.projects .title a:hover {
+.services .title a:hover {
   color: #149ddd;
 }
-.projects .description {
+.services .description {
   margin-left: 80px;
   line-height: 24px;
   font-size: 14px;
