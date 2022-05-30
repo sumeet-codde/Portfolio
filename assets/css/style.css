@@ -457,7 +457,8 @@ section {
 # services
 --------------------------------------------------------------*/
 .services .icon-box {
-  margin-bottom: 20px;
+  margin-top: 0.5px;
+  margin-bottom: 0px;
 }
 .services .icon {
   float: left;
@@ -503,6 +504,7 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact {
+  padding-top: 12px;
   padding-bottom: 30px;
 }
 .contact .info {
